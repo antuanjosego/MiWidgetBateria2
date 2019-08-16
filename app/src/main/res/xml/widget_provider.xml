@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:initialLayout="@layout/widget"
+    android:minWidth="110dp"
+    android:minHeight="80dp"
+    android:label="Widget de Batería"
+    android:updatePeriodMillis="36000"
+    android:previewImage="@mipmap/ic_launcher"
+    android:resizeMode="0x00000003"
+    android:configure="com.example.miwidgetbateria2.Configuracion"/>
